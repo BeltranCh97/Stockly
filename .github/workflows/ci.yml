@@ -50,7 +50,7 @@ jobs:
       with:
         args: >
           -Dsonar.organization=beltranch97
-          -Dsonar.projectKey=BeltranCh97_beltran-app
+          -Dsonar.projectKey=BeltranCh97_Stockly
           -Dsonar.host.url=${{ secrets.SONAR_HOST_URL }}
           -Dsonar.java.binaries=target/classes
 
