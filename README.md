@@ -41,9 +41,9 @@ name: CI Pipeline - Java Web App
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "develop", "master" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "develop", "master" ]
 
 jobs:
   build-and-test:
