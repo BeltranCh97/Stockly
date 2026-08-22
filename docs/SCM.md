@@ -170,3 +170,41 @@ Las auditorías confirman que el producto cumple con los requisitos especificado
 
 ### 9.3. Recuperación ante Desastres (Disaster Recovery & Backup)
 *   **Código como Fuente Única de Verdad (Single Source of Truth):** Debido a que la infraestructura (`k8s/`), contenedores (`dockerfile`), y pipelines (`ci.yml`, `Jenkinsfile`) están versionados como código (IaC y PaC), cualquier entorno puede ser reconstruido desde cero a partir de una clonación limpia del repositorio Git.
+---
+# Evidencias CI-CD
+<img width="2496" height="547" alt="ISS1" src="https://github.com/user-attachments/assets/0c0e33bf-924a-4757-acb8-04d47141c2c6" />
+
+---
+
+<img width="1337" height="1190" alt="PR1" src="https://github.com/user-attachments/assets/7c785db9-9f1d-4c9c-aa52-4b14f1c8ed15" />
+
+---
+
+<img width="1317" height="1287" alt="PR2" src="https://github.com/user-attachments/assets/29fcb702-565d-47fd-9705-e6885857a537" />
+
+---
+
+<img width="1401" height="1190" alt="image" src="https://github.com/user-attachments/assets/a5f18aab-60f2-4e32-89dd-26b38f7257ee" />
+
+---
+
+<img width="1150" height="1232" alt="PR-M2" src="https://github.com/user-attachments/assets/4af78db7-a757-47a1-aa14-dd7ee109ecbe" />
+
+---
+
+<img width="1349" height="1189" alt="image" src="https://github.com/user-attachments/assets/3e85b19f-0f86-4beb-9ce9-52ba790ad54f" />
+
+---
+
+<img width="1380" height="1169" alt="image" src="https://github.com/user-attachments/assets/a5c486e5-ffaa-48f9-98b4-9603748ae27a" />
+
+---
+
+<img width="1123" height="1106" alt="image" src="https://github.com/user-attachments/assets/1db6bb88-c485-4895-af0b-2a562b34fb82" />
+
+## Configuración reglas de branching
+<img width="1307" height="877" alt="image" src="https://github.com/user-attachments/assets/dca70ae8-9d01-493e-91ac-9beb35c4f74c" />
+
+---
+
+
